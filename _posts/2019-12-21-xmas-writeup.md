@@ -1,6 +1,7 @@
 layout: page
-title: X-MAS CTF Writeup
-permalink: /ctf/xmas
+title: "X-MAS CTF Writeup"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CTF
 ## X-MAS CTF
 I competed under team `two idiots`. This is the first CTF my team has done, so everything is new. Still, we managed to solve a few awesome challenges. Below are challenges I solved and found interesting.
 
