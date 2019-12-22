@@ -1,5 +1,6 @@
 ---
 title: "Richard Xu"
+theme: jekyll-theme-cayman
 ---
 ## About me
 
