@@ -2,7 +2,6 @@
 layout: page
 title: "X-MAS CTF Writeup"
 permalink: "ctf/xmas"
-layout: default
 categories: CTF
 ---
 ## X-MAS CTF
