@@ -1,5 +1,6 @@
 ---
 title: "Richard Xu"
+permalink: "/"
 ---
 ## About me
 
