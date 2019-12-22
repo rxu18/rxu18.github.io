@@ -1,5 +1,5 @@
 ---
-title: "Richard Xu"
+title: "Richard Xu | Student at Harvard University"
 permalink: "/"
 ---
 ## About me
