@@ -1,6 +1,5 @@
 ---
 title: "Richard Xu"
-layout: default
 ---
 ## About me
 
