@@ -1,3 +1,6 @@
+---
+title: "Richard Xu"
+---
 ## About me
 
 I am a student at Harvard University studying Mathematics with a concurrent masters in Computer Science. Checkout my [GitHub profile](https://github.com/rxu18) and [LinkedIn](https://www.linkedin.com/in/richard-xu-07bb22b1/).
