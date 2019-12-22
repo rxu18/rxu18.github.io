@@ -1,6 +1,6 @@
 ---
 title: "Richard Xu"
-theme: jekyll-theme-cayman
+layout: default
 ---
 ## About me
 

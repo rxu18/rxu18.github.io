@@ -3,7 +3,7 @@ layout: page
 title: "X-MAS CTF Writeup"
 date: YYYY-MM-DD hh:mm:ss -0000
 permalink: "ctf/xmas"
-theme: jekyll-theme-cayman
+layout: default
 categories: CTF
 ---
 ## X-MAS CTF
