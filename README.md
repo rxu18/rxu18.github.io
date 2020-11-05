@@ -13,9 +13,9 @@ Courses I teach:
 - Math 55a/b (Fall 2020, Spring 2021).
 
 Undergraduate Research (Unpublished):
-- [Market for Congestion: VCG Traffic Tolls in Beijing](/projects/c136). Richard Xu, Bonnie Liu (2019). (For *CS 136: Economics and Computation*, D. Parkes)
-- [Pricing Time: Mechanism for Destination Preference in Ridesharing Platforms](/projects/e2099). Richard Xu (2019). (For *Econ 2099: Market Design*, S. Kominers)
-- [A Survey of Adaptive AMQs](/projects/c223). Eric Knorr, Richard Xu, Zachary Yedidia (2019). (For *CS 223: Randomized Algorithms*, M. Mitzenmacher)
+- [Market for Congestion: VCG Traffic Tolls in Beijing](https://rxu18.github.io/Papers/Market%20for%20Congestion.pdf). Richard Xu, Bonnie Liu (2019). (For *CS 136: Economics and Computation*, D. Parkes)
+- [Pricing Time: Mechanism for Destination Preference in Ridesharing Platforms](https://rxu18.github.io/Papers/Pricing%20Time.pdf. Richard Xu (2019). (For *Econ 2099: Market Design*, S. Kominers)
+- [A Survey of Adaptive AMQs](https://rxu18.github.io/Papers/Adaptive%20AMQ.pdf). Eric Knorr, Richard Xu, Zachary Yedidia (2019). (For *CS 223: Randomized Algorithms*, M. Mitzenmacher)
 
 Math Research:
 - [Algebraicity regarding Graphs and Tilings](https://math.mit.edu/research/highschool/primes/materials/2017/Xu.pdf). Richard Xu (2018), advised by Sergiy Merenkov. (For the MIT PRIMES program)
