@@ -4,7 +4,9 @@ permalink: "/"
 ---
 # About me
 
-I am a student at Harvard University studying Mathematics with a concurrent masters in Computer Science. Checkout my [GitHub profile](https://github.com/rxu18) and [LinkedIn](https://www.linkedin.com/in/richard-xu-07bb22b1/). I have a [blog](https://www.bccalculus.com) under construction.
+I am a student at Harvard University studying Mathematics with a concurrent masters in Computer Science. I have previously interned at Zoom, Vertica and Jane Street.
+
+Checkout my [GitHub profile](https://github.com/rxu18) and [LinkedIn](https://www.linkedin.com/in/richard-xu-07bb22b1/). I have a [blog](https://www.bccalculus.com) under construction. Contact me at *raxu* at *college* dot *harvard* dot *edu*.
 
 ## Academics
 Courses I teach:
