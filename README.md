@@ -25,4 +25,5 @@ Club work:
 - [Crimson Technology Comp](https://github.com/crimtech/crimtech-comp-f20): semester-long training program in Python, JS, React that onboards students to the Crimson tech stack. Richard Xu, Zuzanna Skoczylas (2020). (For the Harvard Crimson)
 
 Competition Writeups:
-- [X-MAS CTF](/ctf/xmas)
+- [GIDER: Sensory Technology to Improve Navigation for the Visually Impaired](http://rxu18.github.io/Papers/Gider.pdf). Minjun Chen, Venky Konanur, Jeremy Ney, Shubham Sharma, Vanja Srivastava, Katie Stevo, Will Wang, Richard Xu (2018). (For MIT Hack for Inclusion)
+- [X-MAS CTF](/ctf/xmas), a security competition organized by HTsP.
