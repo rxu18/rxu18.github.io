@@ -16,7 +16,7 @@ Courses I teach:
 
 Undergraduate Research (Unpublished):
 - [Market for Congestion: VCG Traffic Tolls in Beijing](https://rxu18.github.io/Papers/Market%20for%20Congestion.pdf). Richard Xu, Bonnie Liu (2019). (For *CS 136: Economics and Computation*, D. Parkes)
-- [Pricing Time: Mechanism for Destination Preference in Ridesharing Platforms](https://rxu18.github.io/Papers/Pricing%20Time.pdf. Richard Xu (2019). (For *Econ 2099: Market Design*, S. Kominers)
+- [Pricing Time: Mechanism for Destination Preference in Ridesharing Platforms](https://rxu18.github.io/Papers/Pricing%20Time.pdf). Richard Xu (2019). (For *Econ 2099: Market Design*, S. Kominers)
 - [A Survey of Adaptive AMQs](https://rxu18.github.io/Papers/Adaptive%20AMQ.pdf). Eric Knorr, Richard Xu, Zachary Yedidia (2019). (For *CS 223: Randomized Algorithms*, M. Mitzenmacher)
 
 Math Research:
