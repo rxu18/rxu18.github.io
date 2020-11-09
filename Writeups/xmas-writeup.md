@@ -3,7 +3,7 @@ title: "X-MAS CTF Writeup"
 permalink: "ctf/xmas"
 ---
 ## X-MAS CTF
-I competed under team `two idiots`. This is the first CTF my team has done, so everything is new. Still, we managed to solve a few awesome challenges. Below are challenges I solved and found interesting.
+I competed at the X-MAS CTF 2019 with Steve Cox. This is the first CTF we has done, so everything is new. Still, we managed to solve a few awesome challenges. Below are challenges I solved and found interesting.
 
 ### Emu 2.0
 We receive a ROM drive and a pdf describing how the operating system works, so the task is clearly to write an emulator. Below is some C++ code for my emulator.

@@ -3,7 +3,7 @@ title: "Traders @ MIT Writeup"
 permalink: "comp/tamit"
 ---
 # Traders @ MIT 2020
-I competed (Traders @ MIT 2020)[http://traders.mit.edu/] with Olivia Jorasch. We won the competition, placing 2nd in HFT, 6th in Bonds and 2nd in Information Valuation.
+I competed at [Traders @ MIT 2020](http://traders.mit.edu/) with Olivia Jorasch. We won the competition, placing 2nd in HFT, 6th in Bonds and 2nd in Information Valuation.
 
 ## HFT
 Here's a brief summary of the case:
