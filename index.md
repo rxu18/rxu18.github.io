@@ -1,6 +1,7 @@
 ---
 title: "Richard Xu"
 permalink: "/"
+layout: "default"
 ---
 # About me
 

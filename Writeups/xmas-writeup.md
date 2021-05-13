@@ -1,6 +1,7 @@
 ---
 title: "X-MAS CTF Writeup"
 permalink: "ctf/xmas"
+layout: "default"
 ---
 ## X-MAS CTF
 I competed at the X-MAS CTF 2019 with Steve Cox. This is the first CTF we has done, so everything is new. Still, we managed to solve a few awesome challenges. Below are challenges I solved and found interesting.
