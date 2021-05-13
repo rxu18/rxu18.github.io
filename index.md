@@ -20,7 +20,7 @@ Undergraduate Research (Unpublished):
 - [Market for Congestion: VCG Traffic Tolls in Beijing](https://rxu18.github.io/Papers/Market%20for%20Congestion.pdf). Richard Xu, Bonnie Liu (2019). (For *CS 136: Economics and Computation*, D. Parkes)
 - [Pricing Time: Mechanism for Destination Preference in Ridesharing Platforms](https://rxu18.github.io/Papers/Pricing%20Time.pdf). Richard Xu (2019). (For *Econ 2099: Market Design*, S. Kominers)
 - [A Survey of Adaptive AMQs](https://rxu18.github.io/Papers/Adaptive%20AMQ.pdf). Eric Knorr, Richard Xu, Zachary Yedidia (2019). (For *CS 223: Randomized Algorithms*, M. Mitzenmacher)
-- [Constant Factor Approximation for the Asymmetric TSP problem](https://rxu18.github.io/Papers/Constant%20TSP.pdf). Zuzanna Skoczylas, Richard Xu (2019). (For *MIT 6.854: Advanced Algorithms*, D. Karger)
+- [Constant Factor Approximation for the Asymmetric TSP problem](https://rxu18.github.io/Papers/Constant%20ATSP.pdf). Zuzanna Skoczylas, Richard Xu (2020). (For *MIT 6.854: Advanced Algorithms*, D. Karger)
 - *Hot Fuzz: A Black Box Database Fuzzer*. Daniel Halpern, Andrew Sabot, Richard Xu (2020). (For *CS 263: Systems Security*, J. Mickens. No paper link becuase of IP constraints with Vertica.)
 
 Math Research:
