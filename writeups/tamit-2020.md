@@ -1,6 +1,6 @@
 ---
 title: "Traders @ MIT Writeup"
-permalink: "comp/tamit"
+permalink: "comp/tamit19"
 layout: "default"
 ---
 # Traders @ MIT 2020

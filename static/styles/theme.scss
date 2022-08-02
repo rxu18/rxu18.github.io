@@ -1,0 +1,50 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:600');
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400');
+
+$font-family-sans-serif: "Open Sans", sans-serif !default;
+$font-size-base: 1.1rem !default;
+$headings-font-family: "Raleway", serif !default;
+$headings-font-weight: 600;
+
+$navbar-bg-color: #000050;
+
+$link-decoration: none;
+$link-hover-decoration: underline;
+$link-color: lighten($navbar-bg-color, 20%);
+$mark-bg: #ebdfeb;
+
+nav {
+  background-image: linear-gradient(120deg, #00008b, $navbar-bg-color);
+}
+
+.section {
+  &:nth-child(even) {
+    background-color: white;
+  }
+
+  &:nth-child(odd) {
+    background-color: #ADD8E6;
+  }
+}
+
+.card-header .card-title {
+  margin-bottom: 0;
+}
+
+
+.navbar-brand {
+  font-family: "Open Sans";
+}
+
+ul.paper-list {
+  list-style-type: none;
+}
+
+p.small-card-h {
+  font-size: $font-size-base * 0.9;
+  margin-bottom: 0;
+}
